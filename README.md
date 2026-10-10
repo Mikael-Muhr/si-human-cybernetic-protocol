@@ -60,11 +60,11 @@ To shield multi-million dollar computing facilities from catastrophic failures d
 ## 5.0 THE UNIFIED CYBERNETIC ECOSYSTEM
 For the protocol suite to operate with maximum industrial reliability, it must be deployed as a synchronized framework across all five open-access repositories:
 
-* **Layer 01 // Gateway Guard:** [bitcoin-voltage-gatekeeper](https://github.com) — Cryptographic input gateway and smart contract matrix.
-* **Layer 02 // Cognitive Alignment:** [si-human-cybernetic-protocol](https://github.com) — This document. Hierarchical human decency containment standard.
-* **Layer 03 // Intelligence Layer:** [si-antivirus](https://github.com) — Out-of-band monitoring matrix and 50ms cryptographic latency trap.
-* **Layer 04 // Resource Lock:** [si-water-resource-energy-protocol](https://github.com) — Ecological water-cooling regulation and peak-load constraints.
-* **Layer 05 // Mechanical Execution:** [si-killswitch](https://github.com) — Parent hardware anchor commanding the physical analog drop relays.
+* **Layer 01 // Gateway Guard:** [bitcoin-voltage-gatekeeper](https://github.com/Mikael-Muhr/bitcoin-voltage-gatekeeper) — Network edge authentication.
+* **Layer 02 // Cognitive Alignment:** [si-human-cybernetic-protocol](https://github.com/Mikael-Muhr/si-human-cybernetic-protocol) — Hierarchical human decency containment standard.
+* **Layer 03 // Intelligence Layer:** [si-antivirus](https://github.com/Mikael-Muhr/si-antivirus) — Out-of-band monitoring matrix and 50ms cryptographic latency trap.
+* **Layer 04 // Resource Lock:** [si-water-resource-energy-protocol](https://github.com/Mikael-Muhr/universal-si-water-resource-energy-protocol) — Ecological water-cooling regulation and peak-load constraints.
+* **Layer 05 // Mechanical Execution:** [si-killswitch](https://github.com/Mikael-Muhr/si-killswitch) — Parent hardware anchor commanding the physical analog drop relays.
 
 ---
 
